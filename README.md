@@ -740,6 +740,7 @@
 |    一键中文数据增强工具    |        | [github](https://github.com/425776024/nlpcda)   |
 |    数据增强在机器翻译及其他nlp任务中的应用及效果    |        |  [link](https://mp.weixin.qq.com/s/_aVwSWuYho_7MUT0LuFgVA)   |
 |    NLP数据增广资源集    |        |   [github](https://github.com/quincyliang/nlp-data-augmentation)  |
+|    AEDA: An Easier Data Augmentation Technique for Text Classification    |   EMNLP2021论文，比EDA更高效简单的文本数据增强方法    |  [link](https://github.com/akkarimi/aeda_nlp)   |
 
 
 # 常用正则表达式
@@ -786,6 +787,7 @@
 |     方面情感分析包   |        |   [github](https://github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis)  |
 |    awesome-nlp-sentiment-analysis    |    情感分析、情绪原因识别、评价对象和评价词抽取   |  [github](https://github.com/haiker2011/awesome-nlp-sentiment-analysis)   |
 |    情感分析技术让智能客服更懂人类情感    |        |   [github](https://developeraliyuncom/article/761513?utm_content=g_1000124809)  |
+|    SnowNLP: Simplified Chinese Text Processing    |    中文情感分析（基于商品评论语料）、词性标注、关键词抽取工具   |  [github](https://github.com/isnowfy/snownlp)   |
 
 
 # 事件抽取
